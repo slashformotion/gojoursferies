@@ -202,7 +202,7 @@ func VingtSixDecembre(year int, zone string) (time.Time, error) {
 	return time.Time{}, errNotAvailableInThisZone
 }
 
-// Only in somme DOM-TOMs
+// Only in some DOM-TOMs
 func AbolitionEsclavage(year int, zone string) (time.Time, error) {
 	zone, err := CheckZone(zone)
 	if err != nil {
