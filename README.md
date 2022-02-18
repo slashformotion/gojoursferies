@@ -8,6 +8,8 @@ Cette librairie n'a pas de dépendances externes.
 
 ## Installation
 ```
-go get -u github.com/slashformotion/gotjoursferies
+go get -u github.com/slashformotion/gojoursferies
 ```
 
+## Docs
+Please head to: [pkg.go.dev](https://pkg.go.dev/github.com/slashformotion/gojoursferies)
